@@ -22,7 +22,7 @@
    #### Evaluate the model using the silhouette score
    #### Visualise and interpret the clusters
 
-   ### See jupyter Note book below
-   
+   ### See jupyter Note book below Bank_Customer_Segmentation_and_Deposit_Detection_case_study.ipynb
+   ![](Bank_Customer_Segmentation_and_Deposit_Detection_case_study.ipynb)
   
   
