@@ -10,12 +10,14 @@
 ## The Steps includes:
   ### Data Understanding/Overview - Data Cleaning,Feature Engineerng
   ### Exploratory Data Analysis
+  
   ### Deposit Detection System (Supervised machine learning)
    #### Feature Engineering -Split data into independent and dependent variable(target)
    #### Data Preprocessing - Normalisation using MinMaxscaler
    #### Encoding using label Encoding
    #### Train-Test Split
    #### Model Building- fit data to the train model, test the model and Evaluation the predicted values using various metrics
+   
   ### Customer Segmentation Detection System (Unsupervised machine learning)
    #### Data Preprocessing - Normalisation using MinMaxScaler
    #### Encoding using Label Encoding
@@ -23,6 +25,9 @@
    #### Fit data to Kmeans clustering model
    #### Evaluate the model using the silhouette score
    #### Visualise and interpret the clusters
-   
-### ![]( https://github.com/PharmMary/Bank-Project/blob/main/Bank_Customer_Segmentation_and_Deposit_Detection_case_study.ipynb)
+
+  ### Insights, Recommendations and Challenges
+
+### see jupyter notebook   
+### ![](Bank_Customer_Segmentation_and_Deposit_Detection_case_study.ipynb)
   
