@@ -1,5 +1,7 @@
-# Bank-Project
-![](Nexux_Bank_Case_Study.jpg)
+# Bank-Project 
+### Built a Deposit Detection System & Customer Segmentation Model
+### By Mary
+![](https://github.com/PharmMary/Bank-Project/blob/main/Nexux%20Bank%20Case%20Study.png)
 
 ## The problem to be solved with data mining is understand customer’s behavior and improve term-deposits
 
@@ -21,6 +23,6 @@
    #### Fit data to Kmeans clustering model
    #### Evaluate the model using the silhouette score
    #### Visualise and interpret the clusters
-
-  
+   
+### ![]( https://github.com/PharmMary/Bank-Project/blob/main/Bank_Customer_Segmentation_and_Deposit_Detection_case_study.ipynb)
   
