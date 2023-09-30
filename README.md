@@ -13,31 +13,28 @@ The problem to be solved with data mining is understand customer’s behavior an
   ### Data Understanding/Overview - Data Cleaning,Feature Engineerng:
   Data is clean and ready for analysis, the clients' are between the age of 18 and 95 year-old. They were grouped into 5 different age groups and an age group column is created
   ### Exploratory Data Analysis
-![](https://github.com/PharmMary/Bank-Project/blob/main/bank1.png)
-![]{https://github.com/PharmMary/Bank-Project/blob/main/bank2.png)
+![](https://github.com/PharmMary/Bank-Project/blob/main/bank%201.png)
+![](https://github.com/PharmMary/Bank-Project/blob/main/bank2.png)
 ![](https://github.com/PharmMary/Bank-Project/blob/main/bank3.png)
+### Deposit Detection System (Supervised machine learning)
 ![](https://github.com/PharmMary/Bank-Project/blob/main/bank4.png)
 ![](https://github.com/PharmMary/Bank-Project/blob/main/bank6.png)
+### Customer Segmentation (Unsupervised machine learning)
 ![](https://github.com/PharmMary/Bank-Project/blob/main/bank7.png)
-  
-  
-  ### Deposit Detection System (Supervised machine learning)
-   #### Feature Engineering -Split data into independent and dependent variable(target)
-   #### Data Preprocessing - Normalisation using MinMaxscaler
-   #### Encoding using label Encoding
-   #### Train-Test Split
-   #### Model Building- fit data to the train model, test the model and Evaluation the predicted values using various metrics
-   
-  ### Customer Segmentation Detection System (Unsupervised machine learning)
-   #### Data Preprocessing - Normalisation using MinMaxScaler
-   #### Encoding using Label Encoding
-   #### Determine number of clusters using the Elbow method
-   #### Fit data to Kmeans clustering model
-   #### Evaluate the model using the silhouette score
-   #### Visualise and interpret the clusters
 
-  ### Insights, Recommendations and Challenges
+## RECOMMENDATION
+Base on the insights: -
+The bank should have customized products that will serve the clusters of customers e.g student/school fees term-deposit for the students and retirement term deposit for the aged/retired people. With this the bank will be able to meet the needs of targeted customers and also get new customers to save with the bank
 
-### see jupyter notebook   
-### ![](Bank_Customer_Segmentation_and_Deposit_Detection_case_study.ipynb)
+In this campaign the customers that were contacted within 1 to 4 times over 1st to 31st of the month subscribed to term-deposit, therefore its advisable to limit the marketing campaign calls to less than 4 to avoid unproductive calls and minimize cost of marketing.
+
+A short term maturity term-deposit should be packaged for those in the low income earners carder
+
+## CONSTRAINTS
+Information on the Income status of the customers were not provider, This would have enabled one to understand their spending capacity.
+
+
+
+
+
   
