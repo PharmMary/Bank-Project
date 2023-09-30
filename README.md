@@ -13,7 +13,12 @@ The problem to be solved with data mining is understand customer’s behavior an
   ### Data Understanding/Overview - Data Cleaning,Feature Engineerng:
   Data is clean and ready for analysis, the clients' are between the age of 18 and 95 year-old. They were grouped into 5 different age groups and an age group column is created
   ### Exploratory Data Analysis
-
+![](https://github.com/PharmMary/Bank-Project/blob/main/bank1.png)
+![]{https://github.com/PharmMary/Bank-Project/blob/main/bank2.png)
+![](https://github.com/PharmMary/Bank-Project/blob/main/bank3.png)
+![](https://github.com/PharmMary/Bank-Project/blob/main/bank4.png)
+![](https://github.com/PharmMary/Bank-Project/blob/main/bank6.png)
+![](https://github.com/PharmMary/Bank-Project/blob/main/bank7.png)
   
   
   ### Deposit Detection System (Supervised machine learning)
